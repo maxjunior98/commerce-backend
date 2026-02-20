@@ -11,3 +11,9 @@
 - Add store service
 - Add store controller
 - Add store DTOs
+
+## 02/20/2026
+- Add product module
+- Add product service
+- Add product controller
+- Add product DTOs
